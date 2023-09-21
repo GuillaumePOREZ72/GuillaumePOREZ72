@@ -3,7 +3,7 @@
 Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développement web et accessibilité :accessibility:"*.
 Je serais diplômé en septembre 2024.
 
-:arrow_right: ## À propos de moi !
+:arrow_right: ## À propos de moi
 
 
 

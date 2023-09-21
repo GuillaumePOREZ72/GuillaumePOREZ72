@@ -1,5 +1,12 @@
 # Hi i'm Guillaume👋
 
+Je m'appelle Guillaume et je suis un futur développeur en formation **"Développement web et accessibilité :accessibility:"**.
+Je serais diplômé en septembre 2024.
+
+## À propos de moi !
+
+
+
 <!--
 **GuillaumePOREZ72/GuillaumePOREZ72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

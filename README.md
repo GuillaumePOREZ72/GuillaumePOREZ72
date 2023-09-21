@@ -1,6 +1,6 @@
 # Hi i'm Guillaume👋
 
-Je m'appelle Guillaume et je suis un futur développeur en formation **"Développement web et accessibilité :accessibility:"**.
+Je m'appelle Guillaume et je suis un futur développeur en formation ** "Développement web et accessibilité :accessibility:" **.
 Je serais diplômé en septembre 2024.
 
 ## À propos de moi !

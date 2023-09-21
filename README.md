@@ -5,6 +5,10 @@ Je serais diplômé en septembre 2024.
 
 ## À propos de moi 
 
+J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la grande distribution ou dans le commerce de détail et plus particulèrement dans le retail de jeux vidéos/produits dérivés dans une grande enseigne.
+
+
+
 
 
 

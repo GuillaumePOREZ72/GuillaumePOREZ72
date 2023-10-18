@@ -11,8 +11,6 @@ J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la gra
 
 
 
-
-
 <!--
 **GuillaumePOREZ72/GuillaumePOREZ72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

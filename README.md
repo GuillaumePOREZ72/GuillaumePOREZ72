@@ -6,7 +6,9 @@ Je serais diplômé en septembre 2024.
  ## À propos de moi :wave:
 
 J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la grande distribution ou dans le commerce de détail et plus particulèrement dans le retail de jeux vidéos/produits dérivés dans une grande enseigne.
+Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est donc pour ça que j'ai décidé d'en faire mon métier !
 
+## Ce que j'apprends 
 
 
 

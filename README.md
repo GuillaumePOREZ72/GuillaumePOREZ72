@@ -10,7 +10,7 @@ Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est don
 
 ## En mode chargement :battery:
 
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 
 ![Les Stats GitHub de Guillaume](https://github-readme-stats.vercel.app/api?username=GuillaumePOREZ72&show_icons=true&theme=radical)
 

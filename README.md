@@ -10,7 +10,7 @@ Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est don
 
 ## En mode chargement 
 
-(https://github-readme-stats.vercel.app/api?username=GuillaumePOREZ72)]
+[![Les Stats GitHub de Guillaume](https://github-readme-stats.vercel.app/api?username=GuillaumePOREZ72)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

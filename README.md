@@ -1,9 +1,9 @@
-# Hi i'm Guillaume👋
+# Hi i'm Guillaume :wave:
 
 Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développement web et accessibilité :accessibility:"*.
 Je serais diplômé en septembre 2024.
 
- ## À propos de moi :wave:
+ ## À propos de moi :raisng_hand:
 
 J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la grande distribution ou dans le commerce de détail et plus particulèrement dans le retail de jeux vidéos/produits dérivés dans une grande enseigne.
 Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est donc pour ça que j'ai décidé d'en faire mon métier !

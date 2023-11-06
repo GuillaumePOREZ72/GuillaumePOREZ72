@@ -13,7 +13,7 @@ Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est don
 ![Les Stats GitHub de Guillaume](https://github-readme-stats.vercel.app/api?username=GuillaumePOREZ72&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aGuillaumePOREZ72&layout=compact)][![Top Langs](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aGuillaumePOREZ72&layout=compact)][![Top Langs](https://github.com/GuillaumePOREZ72/github-readme-stats)
 <!--
 **GuillaumePOREZ72/GuillaumePOREZ72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

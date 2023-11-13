@@ -19,8 +19,11 @@ Cet attrait pour le monde du digital/numérique m'a toujours fasciné, c'est don
 
 ## Me contacter :mailbox_with_no_mail:
 
-<!--
-**GuillaumePOREZ72/GuillaumePOREZ72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<details>
+  <summary><b> &nbsp;In English</b></summary>
+</details>
 
 
 

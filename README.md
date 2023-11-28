@@ -1,6 +1,6 @@
 # Bonjour, je suis Guillaume :wave:
 
-Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développement web et accessibilité numérique :accessibility:"*.
+Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développeur web et web mobile spécialisé en accessibilité numérique :accessibility:"*.
 Je serais diplômé en septembre 2024.
 Je recherche un stage en etreprise du 19 juin 2024 au 14 aout 2024 inclusafin de mettre en pratique mes compétences acquises et de les parfaire.
 ## À propos de moi :raising_hand:

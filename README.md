@@ -2,7 +2,7 @@
 
 Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développeur web et web mobile spécialisé en accessibilité numérique :accessibility:"*.
 Je serais diplômé en septembre 2024.
-Je recherche un stage en etreprise du 19 juin 2024 au 14 aout 2024 inclusafin de mettre en pratique mes compétences acquises et de les parfaire.
+Je recherche un stage en etreprise du 16 juin 2024 au 14 aout 2024 inclusafin de mettre en pratique mes compétences acquises et de les parfaire.
 ## À propos de moi :raising_hand:
 
 J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la grande distribution ou dans le commerce de détail et plus particulièrement dans le retail de jeux vidéos/produits dérivés dans une grande enseigne.

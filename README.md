@@ -1,8 +1,8 @@
 # Bonjour, je suis Guillaume :wave:
 
-Je m'appelle Guillaume et je suis un futur développeur en formation  *"Développeur web et web mobile spécialisé en accessibilité numérique :accessibility:"*.
-Je serais diplômé en septembre 2024.
-Je recherche un stage en entreprise du 16 juin 2024 au 14 aout 2024 inclus afin de mettre en pratique mes compétences acquises et de les parfaire.
+Je m'appelle Guillaume et je suis un développeur web front end.
+Je viens d'obtenir mon titre professionnel niveau 5 de Développeur web et web mobile.
+Je recherche une entreprise pour un contrat d'alternance en tant que concepteur développeur d'application pour janvier 2025 afin de mettre en pratique mes compétences acquises et de les parfaire.
 ## À propos de moi :raising_hand:
 
 J'ai travaillé pendant plus de 18 ans dans le commerce, que ce soit dans la grande distribution ou dans le commerce de détail et plus particulièrement dans le retail de jeux vidéos/produits dérivés dans une grande enseigne.
